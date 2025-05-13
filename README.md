@@ -17,7 +17,7 @@ pkg install python
 
 
 
-git clone
+git clone https://github.com/vixzz-dev/Kalkulator-v2
 
 
 
